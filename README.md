@@ -6,7 +6,7 @@
 
 Build your own Decentralized Uniswap pool and liquidity finder web3 tool, in which you can provide users with to to find any network pool address and liquidity details on the blockchain.
 
-Resource Final Code: https://www.theblockchaincoders.com/sourceCode/build-social-media-website-using-html-css-javascript
+Resource Final Code: https://www.theblockchaincoders.com/sourceCode/build-uniswap-pool-and-liquidity-finder-web3-tools-for-any-networks
 
 Get Pro Blockchain Developer Course : https://www.theblockchaincoders.com/pro-nft-marketplace
 
